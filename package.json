@@ -1,0 +1,29 @@
+{
+  "name": "video-compression-ffm",
+  "version": "1.0.0",
+  "description": "This will compress video and add watermark on it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgeetesh/video-compression.git"
+  },
+  "keywords": [
+    "video",
+    "compression",
+    "watermark",
+    "ffmpeg"
+  ],
+  "author": "Geetesh Devda",
+  "license": "ISC",
+  "devDependencies": {
+    "fluent-ffmpeg": "latest",
+    "path": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/dgeetesh/video-compression/issues"
+  },
+  "homepage": "https://github.com/dgeetesh/video-compression#readme"
+}
